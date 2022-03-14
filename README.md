@@ -4,4 +4,4 @@
 ### Membuat paragraf
 kode tag untuk paragraf adalah `<p>`
 ini adalah tampilannya
-![gambar](gambar/gambar3)
+![gambar](gambar/gambar3.png)
