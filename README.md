@@ -60,6 +60,6 @@
 ![p](gambar/gambar16.png)
  
  <br> Sekian penjelasan dari saya tentang membuat HTML menggunakan *Visual Studio Code* semoga muda di pahami sekian dari saya.
- <p align="center">**Terima Kasih**
+ <p align="center">#Terima Kasih#
 
  <br> *Wassalamu'alaikum Warahmatullahi Wabarakatuh*
