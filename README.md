@@ -14,3 +14,7 @@
 ![p](gambar/gambar1.png)
 
 <br> Kemudian buat file baru dengan nama **lab1_tag_dasar.html**
+![p](gambar/gambar2.png)
+
+<br> Selanjutnya buka file tersebut menggunakan browser. Disini saya menggunakan *Microsoft Edge*
+![p](gambar/gambar3.png)
