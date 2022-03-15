@@ -41,6 +41,5 @@
 <br> Lakukan formatan teks yang ada pada paragraf yang sudah ada sebelumnya, mengacu kepada penjelasan materi pemformatan teks sehingga tampilannya akan berbeda seperti berikut.
 <br> masukan code teks seperti berikut untuk melihat perubahan.
 ![p](gambar/gambar10.png)
-
 <br> Dan hasilnya akan seperti ini.
 ![p](gambar/gambar11.png)
