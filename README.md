@@ -9,8 +9,8 @@
 ## Langkah - langkah praktikum
 
 <br> *Assalamu'alaikum Warahmatullahi wabarakatuh* 
-<br> Nama saya Muhammad disini saya akan menjalankan cara membuat web  dengan html
-<br> pertama siapkan Visual Studio Code dan browser
+<br> Nama saya Muhammad Romdhon disini saya akan menjelaskan cara membuat web  dengan html
+<br> pertama siapkan *Visual Studio* Code dan *browser*
 ![p](gambar/gambar1.png)
 
 <br> Kemudian buat file baru dengan nama **lab1_tag_dasar.html**
@@ -20,7 +20,7 @@
 ![p](gambar/gambar3.png)
 
 ## 1. Membuat Paragraf
-<br> Buatlah paragraf sederhana seperti berikut ini. dan kemudian lihat hasilnya dengan menrefresh pada web browser
+<br> Buatlah paragraf sederhana seperti berikut ini. Dan kemudian lihat hasilnya dengan menrefresh pada web browser
 ![p](gambar/gambar4.png)
 ![p](gambar/gambar5.png)
 
@@ -59,6 +59,7 @@
 <br> Nanti hyperlink akan berada di atas seperti gambar berikut :
 ![p](gambar/gambar16.png)
  
- <br> Sekian penjelasan dari saya tentang membuat HTML menggunakan *Visual Studio Code* semoga muda di pahami sekian dari saya Terima kasih
+ <br> Sekian penjelasan dari saya tentang membuat HTML menggunakan *Visual Studio Code* semoga muda di pahami sekian dari saya.
+ <p align="center">Terima Kasih
 
  <br> *Wassalamu'alaikum Warahmatullahi Wabarakatuh*
