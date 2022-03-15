@@ -2,7 +2,7 @@
 
 ## Nama     : Muhammad Romdhon
 ## NIM      : 312010434
-## Kelas    : TI.20.AA1
+## Kelas    : TI.20.A1
 ## Matkul   : Pemograman web
 
 ## Belajar dasar HTML
