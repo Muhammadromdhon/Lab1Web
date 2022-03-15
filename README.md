@@ -18,3 +18,12 @@
 
 <br> Selanjutnya buka file tersebut menggunakan browser. Disini saya menggunakan *Microsoft Edge*
 ![p](gambar/gambar3.png)
+
+## 1. Membuat Paragraf
+<br> Buatlah paragraf sederhana seperti berikut ini. dan kemudian lihat hasilnya dengan menrefresh pada web browser
+![p](gambar/gambar4.png)
+![p](gambar/gambar5.png)
+
+<br> Kemudian atur atribut paragraf seperti berikut dan lihat perubahannya
+![p](gambar/gambar6.png)
+![p](gambar/gambar7.png)
