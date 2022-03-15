@@ -8,7 +8,7 @@
 ## Belajar dasar HTML
 ## Langkah - langkah praktikum
 
-<br> *Assalamualaikum* 
+<br> *Assalamu'alaikum Warahmatullahi wabarakatuh* 
 <br> Nama saya Muhammad disini saya akan menjalankan cara membuat web  dengan html
 <br> pertama siapkan Visual Studio Code dan browser
 ![p](gambar/gambar1.png)
@@ -51,3 +51,14 @@
 ![p](gambar/gambar12.png)
 <br> Gambar akan ditampilkan apa adanya sesuai ukuran. Untuk mengatur ukuran gambar dapat menggunakan atribut `witdh` dan `height` dengan nilai interger yang disesuaikan seperti contoh di atas. Nanti gambar akan seperti berikut ini :
 ![p](gambar/gambar13.png)
+
+## 5. Menambahkan Hyper Links
+
+<br> Tambahkan Hyperlink pada dokumen sebelum heading 1 seperti gambar berikut : 
+![p](gambar/gambar15.png)
+<br> Nanti hyperlink akan berada di atas seperti gambar berikut :
+![p](gambar/gambar16.png)
+ 
+ <br> Sekian penjelasan dari saya tentang membuat HTML menggunakan *Visual Studio Code* semoga muda di pahami sekian dari saya Terima kasih
+
+ <br> *Wassalamu'alaikum Warahmatullahi Wabarakatuh*
