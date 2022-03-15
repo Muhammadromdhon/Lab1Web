@@ -46,8 +46,8 @@
 
 ## 4. Menyisipkan Gambar
 <br> Untuk menyisipkan gambar, siapkan terlebih dahulu gambar yang ingin dimasukan pada HTML dan sisipkan atau taruh gambar pada suatu folder dengan HTML seperti gambar berikut :
-![p](gambar/gambar12.png)
-<br> Kemudian tambahkan tag img setelah paragraf kedua, dengan menambahkan Heading 3 sebelumnya seperti berikut :
-![p](gambar/gambar13.png)
-<br> Gambar akan ditampilkan apa adanya sesuai ukuran. Untuk mengatur ukuran gambar dapat menggunakan atribut `witdh` dan `height` dengan nilai interger yang disesuaikan seperti contoh di atas. Nanti gambar akan seperti berikut ini :
 ![p](gambar/gambar14.png)
+<br> Kemudian tambahkan tag img setelah paragraf kedua, dengan menambahkan Heading 3 sebelumnya seperti berikut :
+![p](gambar/gambar12.png)
+<br> Gambar akan ditampilkan apa adanya sesuai ukuran. Untuk mengatur ukuran gambar dapat menggunakan atribut `witdh` dan `height` dengan nilai interger yang disesuaikan seperti contoh di atas. Nanti gambar akan seperti berikut ini :
+![p](gambar/gambar13.png)
