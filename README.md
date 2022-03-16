@@ -81,5 +81,8 @@ _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 <br> Setelah perubahan gambar akan seperti berikut ini :
 ![p](gambar/gambar18.png)
 ![p](gambar/gambar19.png)
-<br> Disini saya melakukan perubahan dengan menghilangkan akhiran tag `</h1>` menjadi `<h1>` maka akan terjadi seluruh elemen dibawah tag terebut akan berubah mengikuti tag `<h1>` dikarenakan tidak ada penutup pada tag tersebut
+<br> Disini saya melakukan perubahan dengan menghilangkan akhiran tag `</h1>` menjadi `<h1>` maka akan terjadi seluruh elemen dibawah tag terebut akan berubah mengikuti tag `<h1>` dikarenakan tidak ada penutup pada tag tersebut.
 
+<br> 2. Tag *<p>* berfungsi untuk memberri perintah paragraf pada HTML. Tag *<br>* berfungsi untuk memberikan perintah breakline atau baris baru, seperti gambar berikut ini:
+![p](gambar/gambar20.png)
+![p](gambar/gambar21.png)
