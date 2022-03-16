@@ -73,3 +73,13 @@ error ketika terjadi kesalahan penulisan tag?
 proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
 <br> 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top,
 _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
+
+## Jawaban
+<br> 1. Saya akan melakukan perbedaan Tag-tag HTML sebelum dan sesudah perubahan. sebalum perubahan akan seperti gambar berikut ini:
+![p](gambar/gambar17.png)
+![p](gambar/gambar16.png)
+<br> Setelah perubahan gambar akan seperti berikut ini :
+![p](gambar/gambar18.png)
+![p](gambar/gambar19.png)
+<br> Disini saya melakukan perubahan dengan menghilangkan akhiran tag `</h1>` menjadi `<h1>` maka akan terjadi seluruh elemen dibawah tag terebut akan berubah mengikuti tag `<h1>` dikarenakan tidak ada penutup pada tag tersebut
+
