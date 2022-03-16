@@ -87,6 +87,6 @@ _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 ![p](gambar/gambar20.png)
 ![p](gambar/gambar21.png)
 
-<br> 3. *title* berfungsi untuk memberikan judul pada gambar, sedangkan *alt* berfungsi untuk deskripsi tentang gambar, seperti gambar dibawah ini menunjukan perbedaan *title* dan *alt*.
+<br> 3. `title` berfungsi untuk memberikan judul pada gambar, sedangkan `alt` berfungsi untuk deskripsi tentang gambar, seperti gambar dibawah ini menunjukan perbedaan `title` dan `alt`.
 ![p](gambar/gambar22.png)
 ![p](gambar/gambar23.png)
