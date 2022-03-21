@@ -96,6 +96,6 @@ _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 ![p](gambar/gambar25.png)
 
 <br> 5. `<_blank>` untuk membuka link di tab baru 
-        `<_self>` untuk membuka link di frame link itu berada
-        `<_top>` untuk membuka link di frame paling atas (paling luar). contohnya jika website (A) di dalamnya ada website (B) lalu di website (B) di dalamnya ada website (C) lalu di website (C) ini ada link dan kita klik, maka link akan terbuka di websiite (C).
-        `<_parent>` untuk membuka link di frame yang satu tingkat di atas frame link tersebu berada. contohnya jika website (A) di dalamnya ada website (B) lalu di website (B) ini ada link dan kita klik, maka link akan terbuka di website (A).
+<br>    `<_self>` untuk membuka link di frame link itu berada
+<br>    `<_top>` untuk membuka link di frame paling atas (paling luar). contohnya jika website (A) di dalamnya ada website (B) lalu di website (B) di dalamnya ada website (C) lalu di website (C) ini ada link dan kita klik, maka link akan terbuka di websiite (C).
+<br>    `<_parent>` untuk membuka link di frame yang satu tingkat di atas frame link tersebu berada. contohnya jika website (A) di dalamnya ada website (B) lalu di website (B) ini ada link dan kita klik, maka link akan terbuka di website (A).
