@@ -90,3 +90,12 @@ _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 <br> 3. `title` berfungsi untuk memberikan judul pada gambar, sedangkan `alt` berfungsi untuk deskripsi tentang gambar, seperti gambar dibawah ini menunjukan perbedaan `title` dan `alt`.
 ![p](gambar/gambar22.png)
 ![p](gambar/gambar23.png)
+
+<br> 4. Menurut saya tidak harus menggunakan keduanya karena jika menggunakan keduanya dengan ukuran angka yang sama ukuran gambar pada web tidak simetris. sedangkan jika hanya mengunakan salah satu ukurannya akan bertambah besar secara simetris. contoh seperti gambar di bawah berikut ini :
+![p](gambar/gambar24.png)
+![p](gambar/gambar25.png)
+
+<br> 5. `<_blank>` untuk membuka link di tab baru 
+        `<_self>` untuk membuka link di frame link itu berada
+        `<_top>` untuk membuka link di frame paling atas (paling luar). contohnya jika website (A) di dalamnya ada website (B) lalu di website (B) di dalamnya ada website (C) lalu di website (C) ini ada link dan kita klik, maka link akan terbuka di websiite (C).
+        `<_parent>` untuk membuka link di frame yang satu tingkat di atas frame link tersebu berada. contohnya jika website (A) di dalamnya ada website (B) lalu di website (B) ini ada link dan kita klik, maka link akan terbuka di website (A).
